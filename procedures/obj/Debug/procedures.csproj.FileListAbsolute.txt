@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\bin\Debug\procedures.exe.config
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\bin\Debug\procedures.exe
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\bin\Debug\procedures.pdb
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.Procedures.resources
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.Properties.Resources.resources
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.csproj.GenerateResource.cache
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.exe
+C:\Users\user\Desktop\sundry\c\в работе\процедуры апп\procedures\procedures\obj\Debug\procedures.pdb
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\bin\Debug\procedures.exe.config
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\bin\Debug\procedures.exe
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\bin\Debug\procedures.pdb
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.csproj.AssemblyReference.cache
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.Procedures.resources
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.Properties.Resources.resources
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.csproj.GenerateResource.cache
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.csproj.CoreCompileInputs.cache
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.exe
+D:\c\Programmka\Procedures-HostName\Procedures-HostName\procedures\obj\Debug\procedures.pdb
